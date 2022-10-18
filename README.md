@@ -16,4 +16,4 @@ Drop us a line on Twitter if you want to join us on our quest to fix the RPC lay
 >
 >This list must be viewed as is without any express or implied warranties. All information or its part shall not be treated or construed as legal, tax, technological, or any other advice. We have undertaken all reasonable efforts to ensure the accuracy of the information. However, neither Everstake nor extrnode assume any responsibility for errors or omissions, or damages resulting from the use of the information contained herein. 
 >
->As an additional precaution, using the list above for critical applications without further checks and proper audit is not recommended.
+>As an additional precaution, using the list above for production applications without further checks and proper audit is not recommended.
